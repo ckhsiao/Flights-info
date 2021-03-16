@@ -1,4 +1,3 @@
 # Flights-info
-capture aircraft and flight metadata from Flight Aware
 
-Pass aircraft tail numbers to third party and retrieve metadata.
+Pass aircraft tail numbers to Flight Aware and retrieve metadata and photos.
