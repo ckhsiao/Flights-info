@@ -1,4 +1,4 @@
 # Flights-info
-capture aircraft and flight metadata from Flight Tracker
+capture aircraft and flight metadata from Flight Aware
 
-this is for test and demo of git notebook integration for the DS persona demo
+Pass aircraft tail numbers to third party and retrieve metadata.
